@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: ninh-binh-trip-planner
+    env: node
+    buildCommand: npm run build
+    startCommand: npm run start
+    plan: free
+    envVars:
+      - key: NODE_VERSION
+        value: 20.0.0
