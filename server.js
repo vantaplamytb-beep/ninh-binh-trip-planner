@@ -71,7 +71,6 @@ io.on('connection', (socket) => {
     const db = readDB() || {};
     db.timeline = newTimeline;
     writeDB(db);
-    // Broadcast to everyone else connected
     socket.broadcast.emit('timeline_updated', newTimeline);
   });
 
@@ -80,7 +79,6 @@ io.on('connection', (socket) => {
     const db = readDB() || {};
     db.budget = newBudget;
     writeDB(db);
-    // Broadcast to everyone else connected
     socket.broadcast.emit('budget_updated', newBudget);
   });
 
@@ -91,7 +89,7 @@ io.on('connection', (socket) => {
 
 // SPA fallback for frontend routing
 if (fs.existsSync(distPath)) {
-  app.get('*', (req, res) => {
+  app.use((req, res) => {
     res.sendFile(path.join(distPath, 'index.html'));
   });
 }
@@ -100,4 +98,3 @@ const PORT = process.env.PORT || 4000;
 httpServer.listen(PORT, '0.0.0.0', () => {
   console.log(`Sync server running on port ${PORT}`);
 });
-
