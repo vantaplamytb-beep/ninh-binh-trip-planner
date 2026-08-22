@@ -1,0 +1,269 @@
+{
+  "timeline": {
+    "day1": {
+      "date": "Ngày 1 – Tam Cốc",
+      "items": [
+        {
+          "dest": {
+            "name": "🌅 Đến Ninh Bình + ăn sáng",
+            "image": "https://media.mia.vn/uploads/blog-du-lich/ngam-binh-minh-ninh-binh-dep-nhat-o-dau-1-1650767344.jpg",
+            "activities": [
+              "Ăn sáng, nghỉ chân"
+            ],
+            "estimatedCost": "",
+            "mapUrl": ""
+          },
+          "startTime": "06:30",
+          "endTime": "07:00"
+        },
+        {
+          "dest": {
+            "name": "🚣 TAM CỐC – Đỉnh Mây + Khe Giời",
+            "image": "https://ticotravel.com.vn/wp-content/uploads/2022/05/tam-coc-ninh-binh-1.jpg",
+            "activities": [
+              "Ngồi thuyền ngắm cảnh, leo Đỉnh Mây"
+            ],
+            "estimatedCost": "250.000đ",
+            "mapUrl": "https://goo.gl/maps/zZ6bH7g1oD7h1U9L9"
+          },
+          "startTime": "07:30",
+          "endTime": "10:30"
+        },
+        {
+          "dest": {
+            "name": "🏯 BÍCH ĐỘNG",
+            "image": "https://image.vietgoing.com/destination/vietgoing_dmt2106249920.webp",
+            "activities": [
+              "Tham quan hang động, leo chùa Thượng"
+            ],
+            "estimatedCost": "Miễn phí",
+            "mapUrl": "https://goo.gl/maps/BichDong"
+          },
+          "startTime": "10:50",
+          "endTime": "11:40"
+        },
+        {
+          "dest": {
+            "name": "🍜 Ăn trưa",
+            "image": "https://cdn.tgdd.vn/Files/2021/09/28/1385777/cach-lam-bun-ca-ro-dong-thom-ngon-chuan-vi-mien-bac-202109282038215659.jpg",
+            "activities": [
+              "Nghỉ ngơi, ăn trưa đặc sản Ninh Bình"
+            ],
+            "estimatedCost": "",
+            "mapUrl": ""
+          },
+          "startTime": "11:40",
+          "endTime": "12:40"
+        },
+        {
+          "dest": {
+            "name": "🏔️ HANG MÚA",
+            "image": "https://phuotvivu.com/blog/wp-content/uploads/2019/02/hang-mua-ninh-binh-2.jpg",
+            "activities": [
+              "Leo ~500 bậc thang, ngắm toàn cảnh Tam Cốc"
+            ],
+            "estimatedCost": "150.000đ",
+            "mapUrl": "https://goo.gl/maps/bH3dM6aFjPqXQzZ38"
+          },
+          "startTime": "13:10",
+          "endTime": "14:30"
+        },
+        {
+          "dest": {
+            "name": "🛏️ Check-in + Nghỉ ngơi",
+            "image": "https://ticotravel.com.vn/wp-content/uploads/2021/08/TAM-COC-GARDEN-RESORT-NINH-BINH.jpg",
+            "activities": [
+              "Nhận phòng, tắm, nghỉ ngơi"
+            ],
+            "estimatedCost": "",
+            "mapUrl": ""
+          },
+          "startTime": "15:00",
+          "endTime": "15:45"
+        },
+        {
+          "dest": {
+            "name": "🏮 PHỐ CỔ HOA LƯ",
+            "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/4/10/1177921/Pho-Co-2.jpg",
+            "activities": [
+              "Dạo phố, chụp ảnh áo dài / cổ phục"
+            ],
+            "estimatedCost": "Miễn phí",
+            "mapUrl": "https://goo.gl/maps/KyLan"
+          },
+          "startTime": "16:15",
+          "endTime": "18:00"
+        },
+        {
+          "dest": {
+            "name": "📸 Photobooth",
+            "image": "https://icdn.dantri.com.vn/thumb_w/960/2023/03/13/pho-co-hoa-lu-1678681665893.jpeg",
+            "activities": [
+              "Chụp ảnh lưu niệm"
+            ],
+            "estimatedCost": "",
+            "mapUrl": ""
+          },
+          "startTime": "18:00",
+          "endTime": "19:00"
+        },
+        {
+          "dest": {
+            "name": "🍕 Pizza Sen",
+            "image": "https://i2.wp.com/songduong.com/wp-content/uploads/2023/01/pizza-sen-ninh-binh-2.jpg",
+            "activities": [
+              "Ăn tối tại Pizza Sen"
+            ],
+            "estimatedCost": "",
+            "mapUrl": ""
+          },
+          "startTime": "19:00",
+          "endTime": "20:00"
+        },
+        {
+          "dest": {
+            "name": "🏮 Dạo Phố cổ buổi tối",
+            "image": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2023/4/10/1177921/Pho-Co-2.jpg",
+            "activities": [
+              "Đi dạo, ngắm đèn đêm phố cổ"
+            ],
+            "estimatedCost": "",
+            "mapUrl": ""
+          },
+          "startTime": "20:00",
+          "endTime": "21:30"
+        },
+        {
+          "dest": {
+            "name": "🌙 Ngủ 😴",
+            "image": "https://ticotravel.com.vn/wp-content/uploads/2021/08/TAM-COC-GARDEN-RESORT-NINH-BINH.jpg",
+            "activities": [
+              "Nghỉ ngơi, tích năng lượng cho ngày 2"
+            ],
+            "estimatedCost": "",
+            "mapUrl": ""
+          },
+          "startTime": "22:00",
+          "endTime": "23:59"
+        }
+      ]
+    },
+    "day2": {
+      "date": "Ngày 2 – Tràng An",
+      "items": [
+        {
+          "dest": {
+            "name": "🌅 Dậy + Ăn sáng",
+            "image": "https://media.mia.vn/uploads/blog-du-lich/ngam-binh-minh-ninh-binh-dep-nhat-o-dau-1-1650767344.jpg",
+            "activities": [
+              "Dậy sớm, ăn sáng, check-out + gửi đồ"
+            ],
+            "estimatedCost": "",
+            "mapUrl": ""
+          },
+          "startTime": "06:00",
+          "endTime": "07:00"
+        },
+        {
+          "dest": {
+            "name": "🚣 TRÀNG AN",
+            "image": "https://vissaihotel.vn/photo/99ac-sac-quan-the-danh-thang-trang-an.jpg",
+            "activities": [
+              "Đi đò qua các hang động kỳ ảo"
+            ],
+            "estimatedCost": "300.000đ",
+            "mapUrl": "https://goo.gl/maps/R3XyM5Z8Q6o3E5Zz7"
+          },
+          "startTime": "07:20",
+          "endTime": "10:20"
+        },
+        {
+          "dest": {
+            "name": "🏯 CỐ ĐÔ HOA LƯ",
+            "image": "https://datviettour.com.vn/uploads/images/tin-tuc-SEO/mien-bac/Ninh-Binh/danh-thang/hoa-lu.jpg",
+            "activities": [
+              "Tham quan kinh đô đầu tiên Việt Nam"
+            ],
+            "estimatedCost": "20.000đ",
+            "mapUrl": "https://goo.gl/maps/HoaLuNinhBinh"
+          },
+          "startTime": "10:40",
+          "endTime": "11:40"
+        },
+        {
+          "dest": {
+            "name": "🍜 Ăn trưa",
+            "image": "https://cdn.tgdd.vn/Files/2021/09/28/1385777/cach-lam-bun-ca-ro-dong-thom-ngon-chuan-vi-mien-bac-202109282038215659.jpg",
+            "activities": [
+              "Ăn trưa tại khu vực"
+            ],
+            "estimatedCost": "",
+            "mapUrl": ""
+          },
+          "startTime": "12:00",
+          "endTime": "13:00"
+        },
+        {
+          "dest": {
+            "name": "🏞️ TUYỆT TÌNH CỐC",
+            "image": "https://datviettour.com.vn/uploads/images/mien-bac/ninh-binh/hinh-danh-thang/tuyet-tinh-coc-du-lich-ninh-binh-8.jpg",
+            "activities": [
+              "Đi dạo hồ, tham quan động Am Tiên"
+            ],
+            "estimatedCost": "100.000đ",
+            "mapUrl": "https://goo.gl/maps/kG4zZzXgX8JmUuB29"
+          },
+          "startTime": "13:00",
+          "endTime": "14:30"
+        },
+        {
+          "dest": {
+            "name": "☕ Nghỉ / Cà phê / Thư giãn",
+            "image": "https://mia.vn/media/uploads/blog-du-lich/ninh-binh-mountain-side-homestay-cafe-canh-cong-den-vuon-xanh-11-1663138020.jpg",
+            "activities": [
+              "Nghỉ ngơi, thưởng thức cà phê"
+            ],
+            "estimatedCost": "",
+            "mapUrl": ""
+          },
+          "startTime": "15:00",
+          "endTime": "16:00"
+        },
+        {
+          "dest": {
+            "name": "🏠 Ninh Bình → Hà Nội ❤️",
+            "image": "https://statics.vinpearl.com/ha-noi-lang-ha-1_1631001307.jpg",
+            "activities": [
+              "Lấy đồ, chuẩn bị, rồi về Hà Nội"
+            ],
+            "estimatedCost": "",
+            "mapUrl": ""
+          },
+          "startTime": "17:00",
+          "endTime": "19:30"
+        }
+      ]
+    }
+  },
+  "budget": {
+    "groupSize": 8,
+    "accommodation": [
+      {
+        "note": "",
+        "cost": ""
+      }
+    ],
+    "food": [
+      {
+        "note": "",
+        "cost": ""
+      }
+    ],
+    "activities": [
+      {
+        "note": "",
+        "cost": ""
+      }
+    ]
+  }
+}
